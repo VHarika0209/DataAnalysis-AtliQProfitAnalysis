@@ -24,7 +24,7 @@ The dashboard provides a high-level overview of:
 
 ## 📁 File Included
 
-- `AtliQ_Profit_Analysis.pbix` – Power BI report file
+- `AtliQProfitAnalysisDashboardImage.png` – Power BI report file
 
 
 ## 🛠️ Tools & Technologies
